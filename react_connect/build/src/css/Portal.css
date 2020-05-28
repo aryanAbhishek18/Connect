@@ -1,0 +1,70 @@
+.Portal-logo {
+    height: 40px;
+    pointer-events: none;
+}
+@media (prefers-reduced-motion: no-preference) {
+    .Portal-logo {
+        animation: App-logo-spin infinite 20s linear;
+    }
+}
+.Portal-link {
+    color: #61dafb;
+}
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+
+.portal-navbar-toggle-btn{
+    color: white;
+}
+
+
+nav {
+    background-color: transparent;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.nav-logo{
+    display: flex;
+    color: white;
+    margin-right: 40px;
+}
+
+.nav-logo h2{
+    padding-left: 2px;
+    color: white;
+}
+
+nav ul{
+    margin-top: 5px;
+    margin-bottom: 8px;
+}
+
+nav li{
+    margin-right: 10;
+    padding-top: 2px;
+}
+
+nav li a{
+    color: white;
+    padding-right: 20px;
+}
+
+nav li a:hover{
+    color: #61dafb;
+    text-decoration: none;
+}
+
+nav span{
+    padding-left: 0px;
+}
