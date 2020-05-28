@@ -1,0 +1,23 @@
+.friend-list-div {
+    color: white;
+    text-align: center;
+}
+.friend-list-div h4 {
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.friend-div {
+    color: white;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 5px;
+    border: 2px solid transparent;
+    border-radius: 5px;
+}
+.friend-div strong {
+    margin-right: 5px;
+}

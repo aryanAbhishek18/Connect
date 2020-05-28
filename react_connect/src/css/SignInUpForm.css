@@ -1,0 +1,42 @@
+.signInUpDiv{
+    padding: 10px;
+    background-color: white;
+    opacity: 1;
+    border: 2px solid transparent;
+    border-radius: 5px;
+  }
+  
+  .signInUpDiv button {
+    color: white;
+    background-color: #61dafb;
+    border-color: #61dafb;
+  }
+  
+  .signInUpDiv button:hover {
+    color: #61dafb;
+    background-color: white;
+    border-color: #61dafb;
+  }
+  
+  .signInUpDiv button {
+    margin: 0px auto;
+  }
+  
+  .signInUpDiv label {
+    margin: 0px;
+    padding: 0px 5px;
+  }
+  
+  .signInUpDiv input {
+    margin: 2px;
+    padding: 2px 5px;
+  }
+  
+  .signInUpDiv span {
+    display: flex;
+    justify-content: center;
+  }
+
+  .errorMsg {
+    color: red;
+  }

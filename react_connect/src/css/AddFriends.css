@@ -1,0 +1,13 @@
+.add-friends-div {
+    text-align: center;
+    color: white;
+}
+.user-matched-div {
+    border: 2px solid transparent;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+}
+hr {
+    background-color: white;
+}

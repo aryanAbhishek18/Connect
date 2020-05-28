@@ -1,0 +1,14 @@
+.messages-list {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.indiv-msg {
+    background-color: white;
+    padding: 0px;
+    border: 2px solid transparent;
+    border-radius: 5px;
+    color: black;
+    margin-bottom: 10px;
+}

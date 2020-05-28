@@ -1,0 +1,17 @@
+.friends-manager-div span{
+    margin-left: 20px;
+}
+.friend-list-title {
+    color: white;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.select-friends-div select{
+    margin: 0px auto;
+    width: 50vw;
+    text-align: center;
+}
+.selected-friends-details div{
+    margin-top: 10px;
+    color: white;
+}

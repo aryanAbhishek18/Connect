@@ -1,0 +1,25 @@
+.friends-select-div {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    text-align: center;
+
+    padding: 40px;
+}
+.friends-select-div select {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.friends-select-div textarea {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.send-message-buttons {
+    display: flex;
+    justify-content: center;
+}
+.send-message-buttons span {
+    margin-left: 10px;
+}
